@@ -14,9 +14,9 @@
 
 **不适合**：只想要读书笔记或内容摘要；命理内容是排盘工具书、命理故事书或基础教材（无作者自己的断法）。
 
-## 与通用版一盏神灯的核心差异
+## 与通用书籍蒸馏 SKILL 的核心差异
 
-| 维度 | 通用版 | 命理版 |
+| 维度 | 通用书籍蒸馏 SKILL | 命理版 |
 |------|--------|--------|
 | 组织框架 | 无预设模型 | 四柱八字模型（`bazi-model.md`） |
 | 提取轨道 | 框架/原则/案例/反例/术语 | 规则断法/命例/格局/误区/术语 |
@@ -59,6 +59,7 @@ mingxue-zhendian/
 ├── SKILL.md                          # 技能主文件（执行流程定义）
 ├── LICENSE                           # MIT 许可证
 ├── README.md                         # 本文件
+├── appreciation.jpg                  # 赞赏二维码
 └── references/                       # 参考文件（执行时按需读取）
     ├── bazi-model.md                 # 四柱八字模型（规则挂载索引画布）
     ├── skeleton-template.md          # 骨架模板
@@ -104,6 +105,14 @@ mingxue-zhendian/
 ## 许可证
 
 [MIT](./LICENSE) © 野生你盘叔
+
+## 赞赏
+
+如果这个 SKILL 对你有帮助，欢迎请盘叔喝杯茶。
+
+<p align="center">
+  <img src="./appreciation.jpg" alt="赞赏二维码" width="280" />
+</p>
 
 ---
 
